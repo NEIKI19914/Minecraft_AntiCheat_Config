@@ -57,6 +57,11 @@ MrMcYeet 这个用户是火神反作弊团队的人,在国外mc社区有一定�
 想用2.0要先买1.0,价格是22.5欧元,再订阅每月支付3欧元,想体验他的全部服务插件就需要每月支付5欧元...
 也就是177左右人民币加上每个月24左右人民币才能用斯巴达2.0体验全新bug,不准差评.
 
+以下是斯巴达作者的视角讲诉最开始的瓜,我愿称为始祖瓜.
+https://gist.github.com/electronicboy/9c01c2a3b2a9b051ea38ea8d850d5fb7
+https://gist.github.com/electronicboy/bb8d42c64f0acb9e0a05bec96aa5d1e9
+https://docs.google.com/document/d/e/2PACX-1vRcZUQ7hPlVITz2iR-M0aQ4zlCbH3qkdOAsI1NYBLySLXbbmY2Nzuozt6ZhayeZES7tn1tpgP_N0CLL/pub
+
 已经有一些真实的差评被斯巴达作者以骚扰攻击等理由举报给spigot团队删除了,我的就被删了一遍.
 
 ![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/e96b91a1-e578-439a-8bb7-38a053431b72)
