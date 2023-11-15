@@ -6,7 +6,7 @@
 
 >Minecraft反作弊列表:https://github.com/ManInMyVan/Minecraft-Anticheat-List
 
-必坑注意
+避坑注意
 
 >盗取他人免费反作弊配置修改不到5%替换个配置汉化名就卖配置的:https://github.com/CkaDebug/Talents-anticheat-config/blob/main/.github/copySir/fuckyou_xiaoyousir.md
 
