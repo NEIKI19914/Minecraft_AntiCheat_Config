@@ -76,3 +76,7 @@ https://docs.google.com/document/d/e/2PACX-1vRcZUQ7hPlVITz2iR-M0aQ4zlCbH3qkdOAsI
 ![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/b7a4189c-c6be-4f4f-afd0-7c704b81654c)
 ![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/e39714db-b4c5-442b-8831-e9bc6ef5b40f)
 ![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/061fb4e9-7280-4d90-92b6-7085fe110aa9)
+![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/1810875e-7425-4a74-8688-5a144cd6539d)
+![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/5cd2c139-c14a-4f01-b21f-4ad326f0071a)
+![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/dd9a7648-f043-4b23-be23-4c6b2e87d137)
+![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/6f824ab6-62c0-4ea6-9b57-b20bb3dfccbf)
