@@ -1,3 +1,6 @@
+斯巴达反作弊在拉回和检测作弊玩家时的性能...
+![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/99868bb4-f673-4fa8-a5a1-a8ce82dffbb3)
+
 这次斯巴达反作弊的起因大概是这个评论.
 
 ![image](https://github.com/NEIKI19914/Minecraft_AntiCheat_Config/assets/59737752/63a6eca1-aaa7-452d-8cc6-6f74b74c69cf)
